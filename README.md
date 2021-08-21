@@ -12,3 +12,5 @@ only myself
 i want to study english
 
 nobody care me
+
+i'm a boy
